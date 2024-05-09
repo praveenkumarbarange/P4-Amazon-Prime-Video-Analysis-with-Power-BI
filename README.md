@@ -15,4 +15,5 @@ Identifying similar content by matching text-based features
 Network analysis of Actors / Directors and find interesting insights
 Does Amazon Prime has more focus on TV Shows than movies in recent years.
 
-![reportpage](https://github.com/praveenkumarbarange/P4-Amazon-Prime-Video-Analysis-with-Power-BI/assets/52094094/9cdda79a-0968-4383-b7ea-8f7310770541)
+![p4](https://github.com/praveenkumarbarange/P4-Amazon-Prime-Video-Analysis-with-Power-BI/assets/52094094/10197349-664b-479b-af22-3ae44fd5b70e)
+
